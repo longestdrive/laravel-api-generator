@@ -26,9 +26,9 @@
     "require": {
         "php": ">=5.5.9",
         "illuminate/support": "5.1.*",
-        "laracasts/flash": "dev-master",
+        "laracasts/flash": "~1.3",
         "laravelcollective/html": "5.1.*@dev",
-        "bosnadev/repositories": "dev-master"
+        "bosnadev/repositories": "0.*"
     },
     "autoload": {
         "psr-4": {
